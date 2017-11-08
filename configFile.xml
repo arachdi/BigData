@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+<Slaves>
+<Slave>
+<IP>192.168.1.77</IP>
+<PortNumber>2000</PortNumber>
+</Slave>
+<Slave>
+<IP>192.168.1.69</IP>
+<PortNumber>2000</PortNumber>
+</Slave> 
+</Slaves>
+<BlockSize>7</BlockSize>
+</Config>
